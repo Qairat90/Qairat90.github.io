@@ -1,0 +1,253 @@
+body{
+  margin:0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+.shapka {
+  position: fixed;
+font-family: 'Roboto', sans-serif;
+font-size: 50px;
+z-index: 2;
+color: black;
+background-color: white;
+background-size: cover;
+width: 100%;
+padding: 0;
+margin: 0;
+}
+
+.shapka a {
+  text-decoration: none;
+  color: black;
+}
+
+.text1{
+  padding-left: 850px;
+}
+
+.text2{
+position: absolute;
+top: 80px;
+left: 15%;
+font-family: 'Roboto', sans-serif;
+font-size: 30px;
+text-decoration: none;
+color: black;
+}
+.text3{
+  position: absolute;
+  top: 80px;
+  left: 35%;
+  font-family: 'Roboto', sans-serif;
+  font-size: 30px;
+  text-decoration: none;
+  color: black;
+  }
+  .text4{
+    position: absolute;
+    top: 80px;
+    left: 55%;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    text-decoration: none;
+    color: black;
+    }
+    .text5{
+      position: absolute;
+      top: 80px;
+      left: 75%;
+      font-family: 'Roboto', sans-serif;
+      font-size: 30px;
+      text-decoration: none;
+      color: black;
+      }
+      .text6{
+        position: absolute;
+        top: 660px;
+        left: 25%;
+        font-family: 'Roboto', sans-serif;
+        font-size: 80px;
+        z-index: 1;
+        text-decoration: none;
+        color: black;
+        }
+.fon{
+  position: absolute;
+  top: 500px;
+
+}
+.van{
+  position: absolute;
+  left: 20%;
+  top: 1500px;
+  transition: 1s;
+}
+
+.van:hover{
+  transform: scale(1.1);
+}
+
+.van1{
+  position: absolute;
+  left: 1000px;
+  top: 1650px;
+  font-family: Luminari, fantasy;
+  font-size: 30px;
+  text-decoration: none;
+  color: black;
+}
+
+.vn1{
+  position: absolute;
+  left: 1000px;
+  top: 1740px;
+  font-family: Luminari, fantasy;
+  font-size: 30px;
+}
+.cou{
+  position: absolute;
+  left: 50%;
+  top: 2000px;
+  width: 535px;
+  transition: 1s;
+}
+
+.cou:hover{
+  transform: scale(1.1);
+}
+.cou1{
+  position: absolute;
+  left: 760px;
+  top: 2100px;
+  font-family: Luminari, fantasy;
+  font-size: 30px;
+  text-decoration: none;
+  color: black;
+}
+.cu1{
+  position: absolute;
+  left: 760px;
+  top: 2150px;
+  font-family: Luminari, fantasy;
+  font-size: 30px;
+}
+.ver{
+  position: absolute;
+  left: 20%;
+  top: 2550px;
+  transition: 1s;
+}
+
+.ver:hover{
+  transform: scale(1.1);
+}
+.ver1{
+  position: absolute;
+  left: 1000px;
+  top: 2750px;
+  font-family: Luminari, fantasy;
+  font-size: 30px;
+  text-decoration: none;
+  color: black;
+}
+.vr1{
+  position: absolute;
+  left: 1000px;
+  top: 2800px;
+  font-family: Luminari, fantasy;
+  font-size: 30px;
+}
+.yue{
+  position: absolute;
+  left: 50%;
+  top: 3100px;
+  width: 520px;
+  transition: 1s;
+}
+
+.yue:hover{
+  transform: scale(1.1);
+}
+.yue1{
+  position: absolute;
+  left: 760px;
+  top: 3250px;
+  font-family: Luminari, fantasy;
+  font-size: 30px;
+  text-decoration: none;
+  color: black;
+}
+.yu1{
+  position: absolute;
+  left: 760px;
+  top: 3290px;
+  font-family: Luminari, fantasy;
+  font-size: 30px;
+}
+.flo{
+  position: absolute;
+  left: 20%;
+  top: 3650px;
+  transition: 1s;
+}
+
+.flo:hover{
+  transform: scale(1.1);
+}
+.flo1{
+  position: absolute;
+  left: 1000px;
+  top: 3800px;
+  font-family: Luminari, fantasy;
+  font-size: 30px;
+  text-decoration: none;
+  color: black;
+}
+.fl1{
+  position: absolute;
+  left: 1000px;
+  top: 3860px;
+  font-family: Luminari, fantasy;
+  font-size: 30px;
+}
+.blk{
+  position: absolute;
+  top: 4400px;
+  width: 1950px;
+  
+}
+.p1{
+  position: absolute;
+  left: 210px;
+  top: 4850px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 30px;
+  }
+  .p2{
+  position: absolute;
+  left: 810px;
+  top: 4850px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 30px;
+  }
+  .p3{
+  position: absolute;
+  left: 1320px;
+  top: 4850px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 30px;
+  }
+  
+  .p4{ color: white;
+  position: absolute;
+  top: 5150px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 20px;
+  left: 150px;
+}
+  .DOS{
+    position: absolute;
+    top: 500px;
+    
+  }
